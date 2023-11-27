@@ -1,29 +1,596 @@
 [
     {
-        "bookId": "",
+        "bookId": "GEN",
         "bookName": "Genesis",
-        "sequence": 0,
+        "sequence": 1,
         "dateWritten": "",
         "author": "",
         "testament": "OLD"
 
     },
     {
-        "bookId": "",
-        "bookName": "Genesis",
-        "sequence": 0,
+        "bookId": "EXO",
+        "bookName": "Exodus",
+        "sequence": 2,
         "dateWritten": "",
         "author": "",
         "testament": "OLD"
 
     },
     {
-        "bookId": "",
-        "bookName": "Genesis",
-        "sequence": 0,
+        "bookId": "LEV",
+        "bookName": "Leviticus",
+        "sequence": 3,
         "dateWritten": "",
         "author": "",
         "testament": "OLD"
+
+    },
+    {
+        "bookId": "NUM",
+        "bookName": "Numbers",
+        "sequence": 4,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "DEU",
+        "bookName": "Deuteronomy",
+        "sequence": 5,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "JOS",
+        "bookName": "Joshua",
+        "sequence": 6,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "JUD",
+        "bookName": "Judges",
+        "sequence": 7,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "RUT",
+        "bookName": "Ruth",
+        "sequence": 8,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "1SA",
+        "bookName": "1 Samuel",
+        "sequence": 9,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "2SA",
+        "bookName": "2 Samuel",
+        "sequence": 10,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "1KIG",
+        "bookName": "1 Kings",
+        "sequence": 11,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "2KI",
+        "bookName": "2 Kings",
+        "sequence": 12,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "1CH",
+        "bookName": "1 Chronicles",
+        "sequence": 13,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "2CH",
+        "bookName": "2 Chronicles",
+        "sequence": 14,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "EZR",
+        "bookName": "Ezra",
+        "sequence": 15,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "NEH",
+        "bookName": "Nehemiah",
+        "sequence": 16,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "EST",
+        "bookName": "Esther",
+        "sequence": 17,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "JOB",
+        "bookName": "Job",
+        "sequence": 18,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "PSA",
+        "bookName": "Psalms",
+        "sequence": 19,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "PRO",
+        "bookName": "Proverbs",
+        "sequence": 20,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "ECC",
+        "bookName": "Ecclesiastes",
+        "sequence": 21,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "SON",
+        "bookName": "Song of Songs",
+        "sequence": 22,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "ISA",
+        "bookName": "Isaiah",
+        "sequence": 23,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "JER",
+        "bookName": "Jeremiah",
+        "sequence": 24,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "LAM",
+        "bookName": "Lamentations",
+        "sequence": 25,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "EZE",
+        "bookName": "Ezekiel",
+        "sequence": 26,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "DAN",
+        "bookName": "Daniel",
+        "sequence": 27,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "HOS",
+        "bookName": "Hosea",
+        "sequence": 28,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "JOE",
+        "bookName": "Joel",
+        "sequence": 29,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "AMO",
+        "bookName": "Amos",
+        "sequence": 30,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "OBA",
+        "bookName": "Obadiah",
+        "sequence": 31,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "JON",
+        "bookName": "Jonah",
+        "sequence": 32,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "MIC",
+        "bookName": "Micah",
+        "sequence": 33,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "NAH",
+        "bookName": "Nahum",
+        "sequence": 34,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "HAB",
+        "bookName": "Habbakkuk",
+        "sequence": 35,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "ZEP",
+        "bookName": "Zephaniah",
+        "sequence": 36,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "HAG",
+        "bookName": "Haggai",
+        "sequence": 37,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "ZEC",
+        "bookName": "Zechariah",
+        "sequence": 38,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "MAL",
+        "bookName": "Malachi",
+        "sequence": 39,
+        "dateWritten": "",
+        "author": "",
+        "testament": "OLD"
+
+    },
+    {
+        "bookId": "MAT",
+        "bookName": "Matthew",
+        "sequence": 40,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "MAR",
+        "bookName": "Mark",
+        "sequence": 41,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "LUK",
+        "bookName": "Luke",
+        "sequence": 42,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "JOH",
+        "bookName": "John",
+        "sequence": 43,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "ACT",
+        "bookName": "Acts",
+        "sequence": 44,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "ROM",
+        "bookName": "Romans",
+        "sequence": 45,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "1CO",
+        "bookName": "1 Corinthians",
+        "sequence": 46,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "2CO",
+        "bookName": "2 Corinthians",
+        "sequence": 47,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "GAL",
+        "bookName": "Galatians",
+        "sequence": 48,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "EPH",
+        "bookName": "Ephesians",
+        "sequence": 49,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "PHI",
+        "bookName": "Philippians",
+        "sequence": 50,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "COL",
+        "bookName": "Colossians",
+        "sequence": 51,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "1TH",
+        "bookName": "1 Thessalonians",
+        "sequence": 52,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "2TH",
+        "bookName": "2 Thessalonians",
+        "sequence": 53,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "1TI",
+        "bookName": "1 Timothy",
+        "sequence": 54,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "2TI",
+        "bookName": "2 Timothy",
+        "sequence": 55,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "TIT",
+        "bookName": "Titus",
+        "sequence": 56,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "PH2",
+        "bookName": "Philemon",
+        "sequence": 57,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "HEB",
+        "bookName": "Hebrews",
+        "sequence": 58,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "JAM",
+        "bookName": "James",
+        "sequence": 59,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "1PE",
+        "bookName": "1 Peter",
+        "sequence": 60,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "2PE",
+        "bookName": "2 Peter",
+        "sequence": 61,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "1JO",
+        "bookName": "1 John",
+        "sequence": 62,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "2JO",
+        "bookName": "2 John",
+        "sequence": 63,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "3JO",
+        "bookName": "3 John",
+        "sequence": 64,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "JU2",
+        "bookName": "Jude",
+        "sequence": 65,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
+
+    },
+    {
+        "bookId": "REV",
+        "bookName": "Revelation",
+        "sequence": 66,
+        "dateWritten": "",
+        "author": "",
+        "testament": "NEW"
 
     }
 

@@ -1,0 +1,97 @@
+{
+    "chapterId": "GEN:01",
+    "bookId": "GEN",
+    "verses":
+    [
+        {
+            "verseId": "GEN:01:01",
+            "chapterId":"GEN:1",
+            "verseText": "In the beginning, God created the heavens and the earth.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:02",
+            "chapterId":"GEN:1",
+            "verseText": "The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:03",
+            "chapterId":"GEN:1",
+            "verseText": "And God said, Let there be light. and there was light.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:04",
+            "chapterId":"GEN:1",
+            "verseText": "And God saw that the light was good. God separated the light from the darkness.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:05",
+            "chapterId":"GEN:1",
+            "verseText": "God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:06",
+            "chapterId":"GEN:1",
+            "verseText": "And God said, Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:07",
+            "chapterId":"GEN:1",
+            "verseText": "And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:08",
+            "chapterId":"GEN:1",
+            "verseText": "And God called the expanse Heaven. And there was evening and there was morning, the second day.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:09",
+            "chapterId":"GEN:1",
+            "verseText": "And God said, Let the waters under the heavens be gathered together into one place, and let the dry land appear. And it was so.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:10",
+            "chapterId":"GEN:1",
+            "verseText": "God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:11",
+            "chapterId":"GEN:1",
+            "verseText": "And God said, Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth. And it was so.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:12",
+            "chapterId":"GEN:1",
+            "verseText": "The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:13",
+            "chapterId":"GEN:1",
+            "verseText": "And there was evening and there was morning, the third day.",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:14",
+            "chapterId":"GEN:1",
+            "verseText": "And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years,",
+            "version":"ESV"
+        },
+        {
+            "verseId": "GEN:01:15",
+            "chapterId":"GEN:1",
+            "verseText": "and let them be lights in the expanse of the heavens to give light upon the earth.” And it was so.",
+            "version":"ESV"
+        }
+    ]
+}
