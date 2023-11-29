@@ -6,7 +6,7 @@ import time
 data_dir = "../data/chapters/"
 book_name = '1Chronicles'
 chapter_num = 1
-headers = {"Authorization": "Token e85acd40596d162684dc9b65fde8fac9a66ef0a7"}
+headers = {"Authorization": "Token ##########"}
 chapter_url = 'https://api.esv.org/v3/passage/text'
 
 book = bookrepo.BookRepo()
